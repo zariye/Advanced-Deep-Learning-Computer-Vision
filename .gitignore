@@ -1,0 +1,6 @@
+venv
+.idea/
+pyvenv.cfg
+*.jpg
+*.jpeg
+*.png
